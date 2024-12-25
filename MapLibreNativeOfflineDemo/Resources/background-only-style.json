@@ -1,0 +1,11 @@
+{
+  "layers":[
+    {
+      "id":"background",
+      "type":"background",
+      "paint":{
+        "background-color":"rgba(224, 224, 255, 1)"
+      }
+    }
+  ]
+}
