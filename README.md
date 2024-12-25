@@ -1,7 +1,7 @@
 # MapLibre Native - Offline Demo
 - [Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) で発表したデモのソースです
 
-- 発表時のスライドは（後で追加）
+- [発表時のスライド](https://github.com/user-attachments/files/18246997/20241223_Fukuoka.pdf)
 
 - [MapLibre Native](https://github.com/maplibre/maplibre-native) とiOSでローカルのMBTilesファイルを読み込めたので、オフラインファーストな地図アプリに向けた実験をしてみました
 
@@ -49,7 +49,7 @@
 
     - アプリのズーム範囲を地図データに合わせるため、ソースの `LOCAL_MBTILES_ARRAY` で設定しています
 
-      (後でソースを引用)
+      https://github.com/ec22s/maplibre-native-offline-demo/blob/17746dff68e527870bd8865b02e8f927345e36c5/MapLibreNativeOfflineDemo/Constants.swift#L9-L12
 
 <br>
 
@@ -65,13 +65,11 @@
 
 5. 他の地図データを使う場合
 
-    - 今回はソースレイヤー名 `lines` の線を全て単純表示しています。同じソースレイヤー名の線がある地図なら同様に使えると思います
+    - ソースレイヤー名 `lines` の線を全て単純表示しています。同じソースレイヤー名の線がある地図なら同様に使えると思います
 
-      (後でソースを引用)
+      https://github.com/ec22s/maplibre-native-offline-demo/blob/17746dff68e527870bd8865b02e8f927345e36c5/MapLibreNativeOfflineDemo/MapViewController.swift#L52-L55
 
     - 任意のファイル名でソースに追加し、2. で書いた `LOCAL_MBTILES_ARRAY` にファイル名とズーム範囲を設定して下さい
-
-
 
 <br>
 
