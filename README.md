@@ -1,7 +1,7 @@
 # MapLibre Native - Offline Demo
 - [Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) で発表したデモのソースです
 
-- [発表時のスライド](https://github.com/user-attachments/files/18246997/20241223_Fukuoka.pdf)
+- [発表時のスライド](https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf)
 
 - [MapLibre Native](https://github.com/maplibre/maplibre-native) とiOSでローカルのMBTilesファイルを読み込めたので、オフラインファーストな地図アプリに向けた実験をしてみました
 
