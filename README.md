@@ -1,7 +1,47 @@
 # MapLibre Native - Offline Demo
-- [Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) で発表したデモのソースです
 
-- [発表時のスライド](https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf)
+- [HAKATA.swift feat. Japan-\(region).swift #1](https://hakata-swift.connpass.com/event/353191/) (Jul 19 2025) 用のデモアプリ
+
+- [発表時のスライド (準備中)](https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf)
+
+<br>
+
+### 開発/検証環境
+- macOS Sequoia 15.5
+
+- Xcode 16.4
+
+- 実機 : iPad 10th generation (OS 18.2.1)
+
+- シミュレータ : 同上 (OS 18.5)
+
+<br>
+
+### ライブラリについて
+- Swift Package Managerで設定済みですが、自動でインストールされない時は `MapLibre Native` 6.17.1以降を追加して下さい
+
+- 他の使用ライブラリはありません
+
+<br>
+
+### 地図のスタイルとデータについて
+- スタイルは https://maps.protomaps.com/#flavorName=light を用いました
+
+- データも同じサイトから以下のコマンドで取得し、ビルド時にResourcesディレクトリに追加しました。容量が大きいため本ソースにはありません
+```sh
+brew install pmtiles
+pmtiles extract --maxzoom=11 --bbox=125,25,150,50 https://demo-bucket.protomaps.com/v4.pmtiles protomaps-v4-japan-maxzoom-11.pmtiles
+```
+
+<br>
+
+---
+
+<br>
+
+- 以下、[Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) でデモした時の情報です
+
+- [その時のスライド](https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf)
 
 - [MapLibre Native](https://github.com/maplibre/maplibre-native) とiOSでローカルのMBTilesファイルを読み込めたので、オフラインファーストな地図アプリに向けた実験をしてみました
 
