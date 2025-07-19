@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1620"
+   LastUpgradeVersion = "1640"
    version = "1.7">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CEB6961F2D133F9C00E470C0"
-               BuildableName = "MapLibreNativeOfflineDemo.app"
-               BlueprintName = "MapLibreNativeOfflineDemo"
-               ReferencedContainer = "container:MapLibreNativeOfflineDemo.xcodeproj">
+               BuildableName = "MapLibreOfflineDemo.app"
+               BlueprintName = "MapLibreOfflineDemo"
+               ReferencedContainer = "container:MapLibreOfflineDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CEB6961F2D133F9C00E470C0"
-            BuildableName = "MapLibreNativeOfflineDemo.app"
-            BlueprintName = "MapLibreNativeOfflineDemo"
-            ReferencedContainer = "container:MapLibreNativeOfflineDemo.xcodeproj">
+            BuildableName = "MapLibreOfflineDemo.app"
+            BlueprintName = "MapLibreOfflineDemo"
+            ReferencedContainer = "container:MapLibreOfflineDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CEB6961F2D133F9C00E470C0"
-            BuildableName = "MapLibreNativeOfflineDemo.app"
-            BlueprintName = "MapLibreNativeOfflineDemo"
-            ReferencedContainer = "container:MapLibreNativeOfflineDemo.xcodeproj">
+            BuildableName = "MapLibreOfflineDemo.app"
+            BlueprintName = "MapLibreOfflineDemo"
+            ReferencedContainer = "container:MapLibreOfflineDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

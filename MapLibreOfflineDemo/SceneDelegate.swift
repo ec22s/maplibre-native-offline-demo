@@ -11,8 +11,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
             let rootVC = MenuTableViewController()
-            let nv = UINavigationController(rootViewController: rootVC)
-            window.rootViewController = nv
+            window.rootViewController = UINavigationController(rootViewController: rootVC)
             self.window = window
             window.makeKeyAndVisible()
         }
