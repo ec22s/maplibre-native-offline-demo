@@ -1,6 +1,6 @@
 .DS_Store
-*.mbtiles
-*.pmtiles
+**/*.mbtiles
+**/*.pmtiles
 **/xcuserdata/
 no\ used/
 
