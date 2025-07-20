@@ -19,6 +19,12 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NotoSans-Italic.ttf</string>
+		<string>NotoSans-Medium.ttf</string>
+		<string>NotoSansDevanagari-Regular.ttf</string>
+	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
 </dict>

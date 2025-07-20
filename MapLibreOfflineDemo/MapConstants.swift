@@ -3,7 +3,7 @@ import UIKit
 
 let LOCAL_STYLE_GENERATED_BASENAME = "generated-style"
 let LOCAL_STYLE_ORIGINAL_BASENAME = "protomaps-style-original"
-let LOCAL_STYLE_NO_SPRITE_GLYPHS_BASENAME = "protomaps-style-no-sprite-glyphs"
+let LOCAL_STYLE_NO_SPRITE_GLYPHS_BASENAME = "protomaps-style-no-sprite-glyphs-2"
 let LOCAL_TILES_BASENAME = "protomaps-v4-japan-maxzoom-11"
 let TARGET_SOURCE_ID = "protomaps"
 
