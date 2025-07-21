@@ -4,12 +4,12 @@
 
   - タイトル「アプリにオフライン地図を内包 〜 Swift + MapLibre + PMTiles で備えるフォールバック」
 
-- [スライドPDF](https://github.com/user-attachments/files/21342497/20250719-hakata-swift.pdf) <!--https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf-->
+- [スライドPDF](https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf)
   - LT後、説明を追加しました
 
 - デモ動画
-  - [その1 (5.4MB)](https://github.com/user-attachments/assets/c90b040d-d575-45b6-b0cc-6f3ed8854aa8) LTで流したものの短縮版
-  - [その2 (5.0MB)](https://github.com/user-attachments/assets/8862faa6-ddaa-4e3b-a744-1766fa2af21b) オンライン時の動作
+  - [その1 (5.4MB)](https://ec22s.github.io/maplibre-native-offline-demo/demo-1-small.mp4) LTで流したものの短縮版
+  - [その2 (5.0MB)](https://ec22s.github.io/maplibre-native-offline-demo/demo-2-small.mp4) オンライン時の動作
 
 <br>
 
@@ -48,7 +48,7 @@ pmtiles extract --maxzoom=11 --bbox=125,25,150,50 https://demo-bucket.protomaps.
 
 - 以下、[Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) でデモした時の情報です
 
-- [その時のスライド](https://github.com/user-attachments/files/21342571/20241223_Fukuoka.pdf) <!--https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf-->
+- [その時のスライド](https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf)
 
 - [MapLibre Native](https://github.com/maplibre/maplibre-native) とiOSでローカルのMBTilesファイルを読み込めたので、オフラインファーストな地図アプリに向けた実験をしてみました
 
