@@ -2,12 +2,12 @@
 
 - [HAKATA.swift feat. Japan-\(region).swift #1](https://hakata-swift.connpass.com/event/353191/) (Jul 19 2025) で発表したデモのソースです
 
-- [スライドPDF](https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf)
+- [スライドPDF](https://github.com/user-attachments/files/21342497/20250719-hakata-swift.pdf) <!--https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf-->
   - 発表後、説明を追加しました
 
 - デモ動画
-  - [その1](https://ec22s.github.io/maplibre-native-offline-demo/demo-1-small.mp4) 発表時に流したものの短縮版
-  - [その2](https://ec22s.github.io/maplibre-native-offline-demo/demo-2-small.mp4) オンライン時の様子
+  - [その1 (5.4MB)](https://github.com/user-attachments/assets/8862faa6-ddaa-4e3b-a744-1766fa2af21b) 発表時に流したものの短縮版
+  - [その2 (5.0MB)](https://github.com/user-attachments/assets/c90b040d-d575-45b6-b0cc-6f3ed8854aa8) オンライン時の様子
 
 <br>
 
