@@ -6,8 +6,8 @@
   - 発表後、説明を追加しました
 
 - デモ動画
-  - [その1 (5.4MB)](https://github.com/user-attachments/assets/8862faa6-ddaa-4e3b-a744-1766fa2af21b) 発表時に流したものの短縮版
-  - [その2 (5.0MB)](https://github.com/user-attachments/assets/c90b040d-d575-45b6-b0cc-6f3ed8854aa8) オンライン時の様子
+  - [その1 (5.4MB)](https://github.com/user-attachments/assets/c90b040d-d575-45b6-b0cc-6f3ed8854aa8) 発表時に流したものの短縮版
+  - [その2 (5.0MB)](https://github.com/user-attachments/assets/8862faa6-ddaa-4e3b-a744-1766fa2af21b) オンライン時の様子
 
 <br>
 
