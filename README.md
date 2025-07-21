@@ -46,7 +46,7 @@ pmtiles extract --maxzoom=11 --bbox=125,25,150,50 https://demo-bucket.protomaps.
 
 - 以下、[Geeks Who Drink in Fukuoka](https://nulab.connpass.com/event/339775/) (Dec 23 2024) でデモした時の情報です
 
-- [その時のスライド](https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf)
+- [その時のスライド](https://github.com/user-attachments/files/21342571/20241223_Fukuoka.pdf) <!--https://ec22s.github.io/maplibre-native-offline-demo/20241223_Fukuoka.pdf-->
 
 - [MapLibre Native](https://github.com/maplibre/maplibre-native) とiOSでローカルのMBTilesファイルを読み込めたので、オフラインファーストな地図アプリに向けた実験をしてみました
 
