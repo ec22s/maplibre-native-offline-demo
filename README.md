@@ -1,8 +1,13 @@
 # MapLibre Native - Offline Demo
 
-- [HAKATA.swift feat. Japan-\(region).swift #1](https://hakata-swift.connpass.com/event/353191/) (Jul 19 2025) 用のデモアプリ
+- [HAKATA.swift feat. Japan-\(region).swift #1](https://hakata-swift.connpass.com/event/353191/) (Jul 19 2025) で発表したデモのソースです
 
-- [発表時のスライドPDF](https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf) (デモ動画は動きません🙇)
+- [スライドPDF](https://ec22s.github.io/maplibre-native-offline-demo/20250719-hakata-swift.pdf)
+  - 発表後、説明を追加しました
+
+- デモ動画
+  - [その1](https://ec22s.github.io/maplibre-native-offline-demo/demo-1-small.mp4) 発表時に流したものの短縮版
+  - [その2](https://ec22s.github.io/maplibre-native-offline-demo/demo-2-small.mp4) オンライン時の様子
 
 <br>
 
